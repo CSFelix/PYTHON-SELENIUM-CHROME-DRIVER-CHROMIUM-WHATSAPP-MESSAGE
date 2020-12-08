@@ -46,8 +46,9 @@ python whatsapp_message.py
 ----
 ### `📝 Notes 📝`
 
+* **Define Full Chrome Driver Path:** change the String Value in line 15;
 * **Define Contact:** change the String Value in line 20;
-* **Define Message:** change the String Value in line 21
+* **Define Message:** change the String Value in line 21;
 * **Spam:** don't use this code to span your contatcs, else, WhatsApp can block your number!!
 
 ----
