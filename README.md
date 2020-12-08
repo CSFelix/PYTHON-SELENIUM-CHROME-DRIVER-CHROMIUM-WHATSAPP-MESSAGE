@@ -31,6 +31,8 @@ pip install selenium
 
 * Extract the file into a folder.
 
+* **OBS.:** you can download the driver in this repository too!!
+
 > **Running**
 
 * Download the source code;
